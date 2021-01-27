@@ -1,1 +1,1 @@
-# growdiscordserver
+# http://growdserver.cf/
